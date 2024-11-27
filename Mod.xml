@@ -1,9 +1,9 @@
 <Header>
-  <Name>Pokemon Mystery Dungeon DS</Name>
+  <Name>PMD:Footprints To The Dawn</Name>
   <Author>Baxyls</Author>
   <Description>
   </Description>
-  <Namespace>pmdds</Namespace>
+  <Namespace>FTTD</Namespace>
   <UUID>9285455D-0D81-4E0C-AD83-9BA39E85456A</UUID>
   <Version>0.0</Version>
   <GameVersion>0.0</GameVersion>
